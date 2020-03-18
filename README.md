@@ -1,8 +1,8 @@
 # 2D-Object-Pose-Estimation---Realsense-D435
 
-<img src="https://github.com/avinashsen707/2D-Object-Pose-Estimation---Realsense-D435/blob/master/Output/result_screenshot_14.10.2019" width="80%" height="80%">
+<img src="https://github.com/avinashsen707/2D-Object-Pose-Estimation---Realsense-D435/master/Output/result_screenshot_14.10.2019" width="80%" height="80%">
 
-<img src="https://github.com/avinashsen707/2D-Object-Pose-Estimation---Realsense-D435/blob/master/Output/figure_1-2" height="80%">
+<img src="https://github.com/avinashsen707/2D-Object-Pose-Estimation---Realsense-D435/master/Output/figure_1-2" height="80%">
 
 ## Wrapper for Intel® RealSense D435 - Ubuntu 16.04_ROS Kinetic
 
